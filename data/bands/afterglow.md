@@ -1,4 +1,9 @@
 # Afterglow
+
+欢迎正在阅读这个条目的您协助 编辑本条目 。编辑前请阅读 Wiki入门 、 条目编辑规范 、 使用指南 ，并查找相关资料。祝您在萌娘百科度过愉快的时光。
+
+诚邀各位加入 萌娘百科BanG Dream!编辑组 ： 750427313 （入群前请注明萌百ID）
+
 | 组合本名 | Afterglow |
 |---|---|
 | 组合别号 | ag 、夕阳红、恶盖愚狼 |
@@ -8,33 +13,212 @@
 | 相关人士与组合 | Pastel*Palettes 、 Hello, Happy World! |
 | 组合成员 |
 | 美竹兰 (cv 佐仓绫音 ) 青叶摩卡 (cv 三泽纱千香 ) 上原绯玛丽 (cv 加藤英美里 ) 宇田川巴 (cv 日笠阳子 ) 羽泽鸫 (cv 金元寿子 ) |
+| 演唱的歌曲 |
+
+| “ | 传达像平常那样的我们的歌曲 | ” |
 |---|---|---|
+
+Afterglow 是 《 BanG Dream! 》 及其衍生作品的登场乐队，以及同名声优组合，但角色的声优并不会演奏 。乐队代表色为 #EE3344 和 #FFDDDD 。
+
 ### 简介
+
+青梅竹马的五人组成的少女乐队。由于担心独自被分到不同班级的 兰 ，为了能让五个人在一起，她们才组建了乐队 然而由于某些原因，五个人高二高三一直同班 。升入高中后，她们单纯地享受着乐队带来的快乐，放学后会在录音棚练习，还会参加演唱会。成员们的关系非常好，基本上没吵过架。表演本身虽然显得有些不修边幅，但充满力量的演奏和歌喉非常受欢迎。在各种不同的舞台上，她们在音乐中渡过“和往常一样”的每一天。
+
+Afterglow 成员的姓氏均来自东京都涩谷区地名。
+
 ### 角色形象
+
+担当：主唱&吉他
+
+乐器：Gibson Les Paul Special SL Red
+
+年级：高中一年级→高中二年级→高中三年级
+
+生日：4月10日
+
+血型：A型
+
+星座：白羊座
+
+喜欢的东西： 苦味的点心
+
+讨厌的东西： 青豆
+
+兴趣：没有
+
+拥有百年历史的花道家族中的独生女。
+
+虽然被认为是个倔强又冷淡的人，但其实拥有比谁都要温热的一颗心。
+
+个性好强讨厌失败，也有着感到寂寞的一面。
+
+克服了跟父亲的冲突之后，对于花道也能正面看待了。
+
+非常重视青梅竹马和亲人。
+
+姓氏「美竹」来自东京都涩谷区美竹町。
+
+担当：主吉他手
+
+乐器：Schecter BH-1-STD-24
+
+年级：高中一年级→高中二年级→高中三年级
+
+生日：9月3日
+
+血型：B型
+
+星座：处女座
+
+喜欢的东西： 面包
+
+讨厌的东西： 辣的东西
+
+兴趣：收集点数卡、睡觉
+
+对于没兴趣的东西完全不在乎，而为了喜欢的人就能拼尽全力的类型。
+
+个性超级自我中心，说话语调十分懒散。
+
+喜欢对于一件事坚持到底，乐器便是其中之一。
+
+每天都弹奏着“感动人心”的音乐。
+
+对于面包有超乎寻常的热爱，是山吹面包房的常客。
+
+姓氏「青叶」来自东京都涩谷区青叶町。
+
+担当：贝斯手
+
+乐器：Fender American Vintage '74 Jazz Bass
+
+年级：高中一年级→高中二年级→高中三年级
+
+生日：10月23日
+
+血型：B型
+
+星座：天秤座
+
+喜欢的东西：巧克力和零食
+
+讨厌的东西：香菇
+
+兴趣：点评便利店的点心
+
+性格开朗好相处，是乐队中的协调员。担任著Afterglow的队长。
+
+相当喜欢社交，虽然跟谁都能马上变成好朋友，不过也很常因为乘势而做过头。
+
+因为是有一点看不懂气氛的性格，导致最后常常白忙活一场。
+
+泪点低，对于感动系的故事没有办法。最喜欢研究穿搭，对流行相当敏感。
+
+濑田薰 的狂热粉丝。
+
+姓氏「上原」来自东京都涩谷区上原，即代代木上原。
+
+担当：鼓手
+
+年级：高中一年级→高中二年级→高中三年级
+
+生日：4月15日
+
+血型：O型
+
+星座：金牛座
+
+喜欢的东西：猪骨酱油拉面
+
+讨厌的东西：没有特别讨厌的
+
+兴趣：追时髦、敲太鼓
+
+虽然对他人恶语相向但是并不带有恶意，性格爽快。
+
+看上去有点像不良少女，但实际上是个温柔的大姐姐。
+
+在Afterglow中扮演着负责人般的角色，是支撑着乐队的无名英雄。
+
+和商店街的大人们关系很好，在当地的庆典上负责演奏太鼓。
+
+跟 妹妹 关系也非常好，是互相认同的对手。
+
+姓氏「宇田川」来自东京都涩谷区宇田川町。
+
+担当：键盘手
+
+乐器：Nord Stage 2 EX HP76、Roland AX-Synth、Roland AX-1
+
+年级：高中一年级→高中二年级→高中三年级
+
+生日：1月7日
+
+血型：A型
+
+星座：摩羯座
+
+喜欢的东西：妈妈做的蛋糕
+
+讨厌的东西：黑咖啡
+
+兴趣：收集入浴剂
+
+被充满个人魅力的团员围绕着、而显得平凡的女孩子。
+
+但是正因为普通的关系，是一个努力家，
+
+不管面对什么事情都很积极，无论多小的事都不会放弃。是成员们的心灵支柱。
+
+虽然本身没有察觉，但常常做出成为推动团员的契机的事情。
+
+姓氏「羽泽」来自东京都涩谷区羽泽町。
+
 ### 乐团风格
+
+由于编曲上大规模使用传统摇滚乐器，而几乎不采用电音音效和合成器（Redo属于一个例外），Afterglow的音乐风格在BanG Dream!企划中较为接近正统乐团摇滚，其硬核程度可与主打电音核乐的 RAS 比肩。且由于几乎每首歌都有节奏鲜明且强烈的鼓点，在手游中该团歌曲的EX难度谱面也存在大量的快速交互连打 硬核乐团的祖传交互 ，对于交互苦手来说Afterglow曲目的难度不比综合型的Roselia高难度曲目低。
+
 ### 音乐作品
+
 #### 单曲
+
 | 序号 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | 收录曲目 | Blu-ray收录内容 |
 |---|---|---|---|---|---|---|---|
 | 生产限定盘 | 通常盘 |
+| 1st |  |
+| 2nd |  |
+| 3rd |  |
+| 4th |  |
 | 5th | 限定盘 通常盘 |
+| 6th |  |
+| 7th |  |
+
 #### 专辑
+
 | 序号 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | Blu-ray收录内容 |
 |---|---|---|---|---|---|---|
 | 生产限定盘 | 通常盘 |
 | 1st | 限定盘 通常盘 |
 | 2nd | 限定盘 通常盘 |
+
 #### 迷你专辑
+
 | 序号 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | Blu-ray收录内容 |
 |---|---|---|---|---|---|---|
 | 生产限定盘 | 通常盘 |
 | 1st | 限定盘 通常盘 |
 | 2nd | 限定盘 通常盘 |
+
 #### 合作专辑
+
 | 封面 | 发售日 | 标题 | 演唱歌曲 |
 |---|---|---|---|
+| File:BRMM-10965.jpg |
+
 ### 演唱会活动
+
 #### 演唱会
+
 | 日期 | 演唱会名称 | 会场 | 出演 |
 |---|---|---|---|
 | 2018年 |
@@ -47,12 +231,16 @@
 | 0 7月 0 1日 |
 | 2026年 |
 | 0 2月28日 |
+
 ##### Sound Only Live
+
 | 日期 | 演唱会名称 | 出演 | 备注 |
 |---|---|---|---|
 | 2020年 |
 | 12月19-20日 |
+
 #### 其他活动
+
 | 日期 | 活动名称 | 会场 | 出演 | 备注 |
 |---|---|---|---|---|
 | 2019年 |
@@ -64,100 +252,3 @@
 | 0 9月26日 |
 | 2024年 |
 | 0 4月 0 6日 |
-| 1st | That Is How I Roll! • True color |
-| 2nd | Hey-day狂騒曲(カプリチオ) • Scarlet Sky |
-| 3rd | ツナグ、ソラモヨウ • Jamboree! Journey! |
-| 4th | Y.O.L.O!!!!! • COMIC PANIC!!! |
-| 5th | ON YOUR MARK • ランブリングメモリー |
-| 6th | Easy come, Easy go! • いつも通りのBrand new days |
-| 7th | Sasanqua • I love your way! |
-| ONE OF US | SENSENFUKOKU • I knew it! • RED RED RED • ONE OF US |
-| STAY GLOW | Off we go. • SWITCH ON NOW • Trouble Joyful!! • カナユメ • 独創収差 • 極彩色 • サクラゼンセン |
-| 忘れらんない日々のこと | 燦々 • That's why I'm here. • IGNITE GLOW • ペトリコール・オベーション • Made My Day |
-| GLOW GOES ON | Glowing After • A Sunset So Bright • Start as Usual • “Say cheese!!!!!” • 花笑みのデュオ |
-| 其他 | Punchline Halloween!!! • Against the Light |
-| Vol.1 | アスノヨゾラ哨戒班 • READY STEADY GO |
-| Vol.2 | Redo • ロストワンの号哭 |
-| Vol.3 | 瞬間センチメンタル • プライド革命 |
-| Vol.4 | 天ノ弱 • GO!!! （× 弦卷心 ） |
-| VOCALOID | ロキ |
-| Vol.5 | インフェルノ • ドラマツルギー （× 户山香澄 ） |
-| Vol.6 | Don't say "lazy" • サムライハート(Some Like It Hot!!) • ベノム |
-| Vol.7 | メンタルチェンソー • abnormalize |
-| STAY GLOW | Crow Song • カサブタ • アイのシナリオ • Northern lights • トーキョーワンダー。 • Reach Out To The Truth • Listen!! • 青い栞 • イマジネーション • Butter-Fly |
-| Vol.8 | 命に嫌われている。 • 午夜の待ち合わせ • COLORS （×FLOW） |
-| Vol.9 | CHAINSAW BLOOD • チルドレンレコード(Re:boot) • 青のすみか |
-| Vol.10 | カゲロウデイズ • Bunny Girl • オレンジ |
-| 其他 | カルマ • great escape • らしさ • Rolling star • ハウトゥー世界征服 • ヒューマノイド • サウダージ • ヴィラン • テレキャスタービーボーイ • 粉雪 • カオスが極まる • 逆光 • 愛唄 |
-| 其他特殊组合 • EXTRA | 天体観測 （× 户山香澄 ） • グッバイ宣言 （× 户山香澄 ） • 閃光 （× LAYER ） • フォニイ （× 96猫 ） • Ahoy!! 我ら宝鐘海賊団☆ （× 宝钟玛琳 ） |
-|---|
-| 1st | That Is How I Roll! • True color |
-| 2nd | Hey-day狂騒曲(カプリチオ) • Scarlet Sky |
-| 3rd | ツナグ、ソラモヨウ • Jamboree! Journey! |
-| 4th | Y.O.L.O!!!!! • COMIC PANIC!!! |
-| 5th | ON YOUR MARK • ランブリングメモリー |
-| 6th | Easy come, Easy go! • いつも通りのBrand new days |
-| 7th | Sasanqua • I love your way! |
-| ONE OF US | SENSENFUKOKU • I knew it! • RED RED RED • ONE OF US |
-| STAY GLOW | Off we go. • SWITCH ON NOW • Trouble Joyful!! • カナユメ • 独創収差 • 極彩色 • サクラゼンセン |
-| 忘れらんない日々のこと | 燦々 • That's why I'm here. • IGNITE GLOW • ペトリコール・オベーション • Made My Day |
-| GLOW GOES ON | Glowing After • A Sunset So Bright • Start as Usual • “Say cheese!!!!!” • 花笑みのデュオ |
-| 其他 | Punchline Halloween!!! • Against the Light |
-| Vol.1 | アスノヨゾラ哨戒班 • READY STEADY GO |
-| Vol.2 | Redo • ロストワンの号哭 |
-| Vol.3 | 瞬間センチメンタル • プライド革命 |
-| Vol.4 | 天ノ弱 • GO!!! （× 弦卷心 ） |
-| VOCALOID | ロキ |
-| Vol.5 | インフェルノ • ドラマツルギー （× 户山香澄 ） |
-| Vol.6 | Don't say "lazy" • サムライハート(Some Like It Hot!!) • ベノム |
-| Vol.7 | メンタルチェンソー • abnormalize |
-| STAY GLOW | Crow Song • カサブタ • アイのシナリオ • Northern lights • トーキョーワンダー。 • Reach Out To The Truth • Listen!! • 青い栞 • イマジネーション • Butter-Fly |
-| Vol.8 | 命に嫌われている。 • 午夜の待ち合わせ • COLORS （×FLOW） |
-| Vol.9 | CHAINSAW BLOOD • チルドレンレコード(Re:boot) • 青のすみか |
-| Vol.10 | カゲロウデイズ • Bunny Girl • オレンジ |
-| 其他 | カルマ • great escape • らしさ • Rolling star • ハウトゥー世界征服 • ヒューマノイド • サウダージ • ヴィラン • テレキャスタービーボーイ • 粉雪 • カオスが極まる • 逆光 • 愛唄 |
-| 其他特殊组合 • EXTRA | 天体観測 （× 户山香澄 ） • グッバイ宣言 （× 户山香澄 ） • 閃光 （× LAYER ） • フォニイ （× 96猫 ） • Ahoy!! 我ら宝鐘海賊団☆ （× 宝钟玛琳 ） |
-| 1st | That Is How I Roll! • True color |
-|---|---|
-| 2nd | Hey-day狂騒曲(カプリチオ) • Scarlet Sky |
-| 3rd | ツナグ、ソラモヨウ • Jamboree! Journey! |
-| 4th | Y.O.L.O!!!!! • COMIC PANIC!!! |
-| 5th | ON YOUR MARK • ランブリングメモリー |
-| 6th | Easy come, Easy go! • いつも通りのBrand new days |
-| 7th | Sasanqua • I love your way! |
-| ONE OF US | SENSENFUKOKU • I knew it! • RED RED RED • ONE OF US |
-| STAY GLOW | Off we go. • SWITCH ON NOW • Trouble Joyful!! • カナユメ • 独創収差 • 極彩色 • サクラゼンセン |
-| 忘れらんない日々のこと | 燦々 • That's why I'm here. • IGNITE GLOW • ペトリコール・オベーション • Made My Day |
-| GLOW GOES ON | Glowing After • A Sunset So Bright • Start as Usual • “Say cheese!!!!!” • 花笑みのデュオ |
-| 其他 | Punchline Halloween!!! • Against the Light |
-| Vol.1 | アスノヨゾラ哨戒班 • READY STEADY GO |
-|---|---|
-| Vol.2 | Redo • ロストワンの号哭 |
-| Vol.3 | 瞬間センチメンタル • プライド革命 |
-| Vol.4 | 天ノ弱 • GO!!! （× 弦卷心 ） |
-| VOCALOID | ロキ |
-| Vol.5 | インフェルノ • ドラマツルギー （× 户山香澄 ） |
-| Vol.6 | Don't say "lazy" • サムライハート(Some Like It Hot!!) • ベノム |
-| Vol.7 | メンタルチェンソー • abnormalize |
-| STAY GLOW | Crow Song • カサブタ • アイのシナリオ • Northern lights • トーキョーワンダー。 • Reach Out To The Truth • Listen!! • 青い栞 • イマジネーション • Butter-Fly |
-| Vol.8 | 命に嫌われている。 • 午夜の待ち合わせ • COLORS （×FLOW） |
-| Vol.9 | CHAINSAW BLOOD • チルドレンレコード(Re:boot) • 青のすみか |
-| Vol.10 | カゲロウデイズ • Bunny Girl • オレンジ |
-| 其他 | カルマ • great escape • らしさ • Rolling star • ハウトゥー世界征服 • ヒューマノイド • サウダージ • ヴィラン • テレキャスタービーボーイ • 粉雪 • カオスが極まる • 逆光 • 愛唄 |
-| 其他特殊组合 • EXTRA | 天体観測 （× 户山香澄 ） • グッバイ宣言 （× 户山香澄 ） • 閃光 （× LAYER ） • フォニイ （× 96猫 ） • Ahoy!! 我ら宝鐘海賊団☆ （× 宝钟玛琳 ） |
-|---|
-| 相关会社 | Bushiroad [+] • Bushiroad Creative • Bushiroad Media • 株式会社Kixroad • 响HiBiKi [+] |
-| 相关人士 | 木谷高明 （创立者、董事长、社长） |
-|---|
-| 相关会社 | Bushiroad [+] • Bushiroad Creative • Bushiroad Media • 株式会社Kixroad • 响HiBiKi [+] |
-| 相关人士 | 木谷高明 （创立者、董事长、社长） |
-|---|---|
-|---|---|
-|---|
-|---|
-|---|
-|---|---|
-|---|---|
-|---|---|
-### 注释与外部链接
-1. ↑ 特例：扮演 青叶摩卡 的 三泽纱千香 会弹吉他，并在 BanG Dream! 7th☆LIVE DAY2:Genesis 中登场

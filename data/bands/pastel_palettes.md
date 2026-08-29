@@ -1,4 +1,9 @@
 # Pastel*Palettes
+
+欢迎正在阅读这个条目的您协助 编辑本条目 。编辑前请阅读 Wiki入门 、 条目编辑规范 、 使用指南 ，并查找相关资料。祝您在萌娘百科度过愉快的时光。
+
+诚邀各位加入 萌娘百科BanG Dream!编辑组 ： 750427313 （入群前请注明萌百ID）
+
 | 组合本名 | Pastel*Palettes |
 |---|---|
 | 组合别号 | パスパレ(PasPale) 、怕死怕累、破巢照破烈抖、修车队 |
@@ -8,35 +13,211 @@
 | 相关人士与组合 | Afterglow 、 Hello, Happy World! |
 | 组合成员 |
 | 丸山彩 (cv 前岛亚美 ) 冰川日菜 (cv 小泽亚李 ) 白鹭千圣 (cv 上坂堇 ) 大和麻弥 (cv 中上育实 ) 若宫伊芙 (cv 秦佐和子 ) |
+| 演唱的歌曲 |
+
+| “ | 应援就拜托大家了！ | ” |
 |---|---|---|
+
+Pastel*Palettes 是 《 BanG Dream! 》 及其衍生作品的登场乐队，以及同名声优组合，但角色的声优并不会演奏。乐队代表色为 #33DDAA 和 #DDFFEE 。
+
 ### 简介
+
+由演艺事务所旗下的成员组成的“偶像乐队”。其中有作为研修生一直在暗自努力的 彩 ，从小就进行演艺活动的 千圣 ，作为模特儿进行活动的 伊芙 ，加上学什么都快的 日菜 和作为录音棚音乐人的 麻弥 ，五人组成了这支乐队。有着种种不同背景的成员们，为了确立起各自独有的“偶像的形象”而在不断地奋斗着，她们追逐梦想的姿态正绽放着光芒。
+
+Pastel*Palettes 成员的姓氏均来自于东京都中野区地名。
+
 ### 角色形象
+
+担当：主唱
+
+年级：高中二年级→高中三年级→大学（本科）一年级
+
+生日：12月27日
+
+血型：A型
+
+星座：摩羯座
+
+喜欢的东西： 蛋包饭和汉堡肉
+
+讨厌的东西： 章鱼
+
+兴趣：钻研自拍
+
+因为憧憬“偶像”而进入艺能界，原本是偶像实习生。
+
+由于怯场的关系对于现场的即兴发挥不是很拿手。
+
+她那副不管什么时候都不会放弃，并积极向前的姿态，影响了周围的团员。
+
+经过1年的偶像活动，能力有了大幅成长。
+
+对于“可爱的人正在努力的样子”没有抵抗力，一见到就会立刻（感动得？）哭起来。
+
+姓氏「丸山」来自东京都中野区丸山。
+
+担当：主吉他手
+
+乐器：（待补充）
+
+年级：高中二年级→高中三年级→大学（本科）一年级
+
+生日：3月20日
+
+血型：AB型
+
+星座：双鱼座
+
+喜欢的东西： 口香糖、糖果、垃圾食品
+
+讨厌的东西： 豆腐豆皮之类的味道淡的东西
+
+兴趣：做精油
+
+见过一次的东西就能马上记住并且活用的天才少女。
+
+虽然性格开朗直率，但是比较迟钝不擅长体察对方的心情。
+
+担任著羽丘女子学园的学生会长。
+
+总之就是喜欢会“噜”的事情，虽然也会惹麻烦，但是非常重视PasPale。
+
+姓氏「冰川」来自东京都中野区冰川町。
+
+担当：贝斯手
+
+乐器：Fender Japan PJ-36 JAZZ BASS SPECIAL
+
+年级：高中二年级→高中三年级→大学（本科）一年级
+
+生日：4月6日
+
+血型：B型
+
+星座：白羊座
+
+喜欢的东西：红茶，Acai Bowl（一种夏威夷甜品）和味道清淡的东西
+
+讨厌的东西：纳豆
+
+兴趣：在咖啡厅喝茶、逛街
+
+从小时候开始就以童星的身份活跃的年轻有为的女演员。
+
+个性相当冷静并且现实。负责让其他容易暴走的团员冷静下来。
+
+非常重视能无所顾忌和她相处的朋友。对于参加乐队这件事似乎抱有什么想法。
+
+被朝着梦想前进的彩影响，现在正寻找着自己的梦想。
+
+姓氏「白鹭」来自东京都中野区白鹭。
+
+担当：鼓手
+
+乐器：（待补充）
+
+年级：高中二年级→高中三年级→大学（本科）一年级
+
+生日：11月3日
+
+血型：O型
+
+星座：天蝎座
+
+喜欢的东西：蔬菜棒
+
+讨厌的东西：高级食材
+
+兴趣：玩音乐器材
+
+前录音室乐手，是个器材宅。作为录音师担当了乐队的鼓手一职。
+
+宣称“被器材包围的时候最幸福”，聊起器材的话题便会滔滔不绝。
+
+虽然对于自己做为偶像感到不安，但透过活动，最近也开始抱有自信了。
+
+有着情绪高昂时会“呼嘿嘿”地笑的习惯。
+
+姓氏「大和」来自东京都中野区大和町。
+
+担当：键盘手
+
+乐器：KORG RK-100S、Roland Lucina AX-09
+
+年级：高中一年级→高中二年级→高中三年级
+
+生日：6月27日
+
+血型：A型
+
+星座：巨蟹座
+
+喜欢的东西：姜饼
+
+讨厌的东西：米糠腌菜
+
+兴趣：看古装剧
+
+父亲是日本人，母亲为芬兰人的前模特儿。
+
+混血儿归国子女。性格率直对谁都很温柔。
+
+对于“武士道”文化抱有强烈的憧憬，每天都在为了成为完美的武士而在修行中。
+
+因为非常喜欢日本文化，所以虽然每天都在学习，但其知识有时候也会出错……
+
+姓氏「若宫」来自东京都中野区若宫。
+
 ### 乐团风格
+
+正如乐队介绍所言，Pastel*Palettes的风格以轻快活泼、节奏适中的歌曲为主（目前推出的歌曲BPM以120-180居多） 200的 无人岛 表示不服 ，属于Pop风格和摇滚风格的混合体，且大多数都展现了少女面对爱情时的感觉 当然也有像 天下A to Z 这样大和风格浓重的东西 。同时值得一提的是，在手游初期登场的五个乐团中，P*P在四个大版本时期的舞台服装都是以Lolita为原型设计的，随着版本沿革而发生变化的幅度在五个团里最小。
+
+另外，乐队本身以及五名成员的角色代表色均为浅色系的 粉彩色 ，照应了乐队名称中的 Pastel （粉彩色）。
+
 ### 音乐作品
+
 #### 单曲
+
 | 序号 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | 收录曲目 | Blu-ray收录内容 |
 |---|---|---|---|---|---|---|---|
 | 生产限定盘 | 通常盘 |
+| 1st |  |
+| 2nd |  |
+| 3rd |  |
+| 4th |  |
 | 5th | 限定盘 通常盘 |
+| 6th |  |
+| 7th |  |
+
 #### 专辑
+
 | 序号 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | Blu-ray收录内容 |
 |---|---|---|---|---|---|---|
 | 生产限定盘 | 通常盘 |
 | 1st | 限定盘 通常盘 |
 | 2nd | 限定盘 通常盘 |
+
 #### 迷你专辑
+
 | 序号 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | Blu-ray收录内容 |
 |---|---|---|---|---|---|---|
 | 生产限定盘 | 通常盘 |
 | 1st | 限定盘 通常盘 |
 | 2nd | 限定盘 通常盘 |
+
 #### 映像作品
+
 | 封面 | 发售日 | 标题 | 规格品番 | 最高位 | Blu-ray收录内容 |
 |---|---|---|---|---|---|
+
 #### 合作专辑
+
 | 封面 | 发售日 | 标题 | 演唱歌曲 |
 |---|---|---|---|
+| File:BRMM-10965.jpg |
+
 ### 演唱会活动
+
 | 日期 | 演唱会名称 | 会场 | 出演 | 备注 |
 |---|---|---|---|---|
 | 2018年 |
@@ -53,120 +234,17 @@
 | 0 7月 0 8日 |
 | 2026年 |
 | 0 2月28日 |
+
 #### Sound Only Live
+
 | 日期 | 演唱会名称 | 出演 | 备注 |
 |---|---|---|---|
 | 2021年 |
 | 0 2月27-28日 |
+
 #### 专场活动
+
 | 日期 | 演唱会名称 | 会场 | 出演 | 备注 |
 |---|---|---|---|---|
 | 2025年 |
 | 0 2月24日 |
-| 1st | しゅわりん☆どり～みん • パスパレボリューションず☆ |
-| 2nd | ゆら・ゆらRing-Dong-Dance • はなまる◎アンダンテ |
-| 3rd | もういちど ルミナス • SURVIVOR ねばーぎぶあっぷ！ |
-| 4th | 天下トーイツ A to Z☆ • Wonderland Girl |
-| 5th | きゅ～まい＊flower • ゼッタイ宣言〜Recital〜 |
-| 6th | ワクワクmeetsトリップ • ぎゅっDAYS♪ |
-| 7th | ゆめゆめグラデーション • Wonderful Sweet! |
-| TITLE IDOL | TITLE IDOL • あっつあつ 常夏 らぶ☆サマー！ • Power of LOVE!!! • Winking☆Cheer |
-| Pastel à la mode | るんっ♪てぃてぃー！ • パッパレ☆人生！バーン万歳！ • Brand new Pastel Road! • あこがれacross • ハレハレ☆フォーチュン • ハナヒバナ |
-| いろとりどり | トリドリ＊パレット • ドラマチック！アライブ • Radiate Warriors • ReReReエボリューションず☆ • everyday flower |
-| きみと Stage by Stage | With 〜きみとわたしたちの物語〜 • フレっとパレット Fight Song!! • デイオフ・ラフ・ラブ・サンクス • ホワイト ノスタルジア • Y.O.L.O ！！！！！(パスパレver.) |
-| Vol.1 | secret base〜君がくれたもの〜 • ふわふわ時間 |
-| Vol.2 | ハッピーシンセサイザ • 世界は恋に落ちている |
-| Vol.3 | Fantastic future • 奏（かなで） |
-| Vol.4 | Baby Sweet Berry Love • Q&A リサイタル！ |
-| VOCALOID | からくりピエロ • ハッピーシンセサイザ • みくみくにしてあげる♪【してやんよ】 • ルカルカ★ナイトフィーバー |
-| Vol.5 | 花ハ踊レヤいろはにほ • 春擬き |
-| Vol.6 | 徒花ネクロマンシー • ノスタルジックレインフォール • 夜に駆ける |
-| Vol.7 | 春を告げる • Sparkling Daydream |
-| Pastel à la mode | そばかす • 気まぐれロマンティック • ドリームパレード • ラムのラブソング • DANCE! おジャ魔女 • DISCOTHEQUE • ゆりゆららららゆるゆり大事件 • SAKURAスキップ • Stay Alive • 秘密の扉から会いにきて |
-| Vol.8 | 惑星ループ （× PAREO ） • Make it! • ヒトリゴト （× ClariS ） |
-| Vol.9 | 魔法少女とチョコレゐト • 可愛くてごめん (注) 日菜×千圣×麻弥×伊芙 • アイドル |
-| Vol.10 | サインはB • だから、ひとりじゃない • 最上级にかわいいの！ • 愛包ダンスホール （× 兰 ） |
-| 其他 | MOON PRIDE • はなまるぴっぴはよいこだけ • ときめきポポロン♪ • ココ☆ナツ • オトナブルー • すきっちゅーの！ |
-| 其他特殊组合 • EXTRA | ムーンライト伝説 （× 心 × 真白 ） • ファンサ （× 凑阿库娅 ） • もういちど ルミナス（コラボver） （ ClariS ×彩） • 五等分の気持ち （Pastel*Palettes( 日菜 × 千圣 )× 有咲 × 鸫 × 真白 ） • どりーみんチュチュ （× 花音 ） |
-| 专场演唱会 • 活动 | ～まんまるお山に彩りスペシャル☆～ • Flowerful* （Sound Only Live） • TITLE DREAM • Together!! |
-| 参演 • 联合演唱会 | BanG Dream! 主系列演唱会 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. 企划内联合演唱会 ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE 其他参演 THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. | BanG Dream! 主系列演唱会 | 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. |  | 企划内联合演唱会 | ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE |  | 其他参演 | THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. |
-| BanG Dream! 主系列演唱会 | 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. |
-| 企划内联合演唱会 | ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE |
-| 其他参演 | THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. |
-|---|
-| 1st | しゅわりん☆どり～みん • パスパレボリューションず☆ |
-| 2nd | ゆら・ゆらRing-Dong-Dance • はなまる◎アンダンテ |
-| 3rd | もういちど ルミナス • SURVIVOR ねばーぎぶあっぷ！ |
-| 4th | 天下トーイツ A to Z☆ • Wonderland Girl |
-| 5th | きゅ～まい＊flower • ゼッタイ宣言〜Recital〜 |
-| 6th | ワクワクmeetsトリップ • ぎゅっDAYS♪ |
-| 7th | ゆめゆめグラデーション • Wonderful Sweet! |
-| TITLE IDOL | TITLE IDOL • あっつあつ 常夏 らぶ☆サマー！ • Power of LOVE!!! • Winking☆Cheer |
-| Pastel à la mode | るんっ♪てぃてぃー！ • パッパレ☆人生！バーン万歳！ • Brand new Pastel Road! • あこがれacross • ハレハレ☆フォーチュン • ハナヒバナ |
-| いろとりどり | トリドリ＊パレット • ドラマチック！アライブ • Radiate Warriors • ReReReエボリューションず☆ • everyday flower |
-| きみと Stage by Stage | With 〜きみとわたしたちの物語〜 • フレっとパレット Fight Song!! • デイオフ・ラフ・ラブ・サンクス • ホワイト ノスタルジア • Y.O.L.O ！！！！！(パスパレver.) |
-| Vol.1 | secret base〜君がくれたもの〜 • ふわふわ時間 |
-| Vol.2 | ハッピーシンセサイザ • 世界は恋に落ちている |
-| Vol.3 | Fantastic future • 奏（かなで） |
-| Vol.4 | Baby Sweet Berry Love • Q&A リサイタル！ |
-| VOCALOID | からくりピエロ • ハッピーシンセサイザ • みくみくにしてあげる♪【してやんよ】 • ルカルカ★ナイトフィーバー |
-| Vol.5 | 花ハ踊レヤいろはにほ • 春擬き |
-| Vol.6 | 徒花ネクロマンシー • ノスタルジックレインフォール • 夜に駆ける |
-| Vol.7 | 春を告げる • Sparkling Daydream |
-| Pastel à la mode | そばかす • 気まぐれロマンティック • ドリームパレード • ラムのラブソング • DANCE! おジャ魔女 • DISCOTHEQUE • ゆりゆららららゆるゆり大事件 • SAKURAスキップ • Stay Alive • 秘密の扉から会いにきて |
-| Vol.8 | 惑星ループ （× PAREO ） • Make it! • ヒトリゴト （× ClariS ） |
-| Vol.9 | 魔法少女とチョコレゐト • 可愛くてごめん (注) 日菜×千圣×麻弥×伊芙 • アイドル |
-| Vol.10 | サインはB • だから、ひとりじゃない • 最上级にかわいいの！ • 愛包ダンスホール （× 兰 ） |
-| 其他 | MOON PRIDE • はなまるぴっぴはよいこだけ • ときめきポポロン♪ • ココ☆ナツ • オトナブルー • すきっちゅーの！ |
-| 其他特殊组合 • EXTRA | ムーンライト伝説 （× 心 × 真白 ） • ファンサ （× 凑阿库娅 ） • もういちど ルミナス（コラボver） （ ClariS ×彩） • 五等分の気持ち （Pastel*Palettes( 日菜 × 千圣 )× 有咲 × 鸫 × 真白 ） • どりーみんチュチュ （× 花音 ） |
-| 专场演唱会 • 活动 | ～まんまるお山に彩りスペシャル☆～ • Flowerful* （Sound Only Live） • TITLE DREAM • Together!! |
-| 参演 • 联合演唱会 | BanG Dream! 主系列演唱会 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. 企划内联合演唱会 ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE 其他参演 THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. | BanG Dream! 主系列演唱会 | 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. |  | 企划内联合演唱会 | ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE |  | 其他参演 | THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. |
-| BanG Dream! 主系列演唱会 | 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. |
-| 企划内联合演唱会 | ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE |
-| 其他参演 | THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. |
-| 1st | しゅわりん☆どり～みん • パスパレボリューションず☆ |
-|---|---|
-| 2nd | ゆら・ゆらRing-Dong-Dance • はなまる◎アンダンテ |
-| 3rd | もういちど ルミナス • SURVIVOR ねばーぎぶあっぷ！ |
-| 4th | 天下トーイツ A to Z☆ • Wonderland Girl |
-| 5th | きゅ～まい＊flower • ゼッタイ宣言〜Recital〜 |
-| 6th | ワクワクmeetsトリップ • ぎゅっDAYS♪ |
-| 7th | ゆめゆめグラデーション • Wonderful Sweet! |
-| TITLE IDOL | TITLE IDOL • あっつあつ 常夏 らぶ☆サマー！ • Power of LOVE!!! • Winking☆Cheer |
-| Pastel à la mode | るんっ♪てぃてぃー！ • パッパレ☆人生！バーン万歳！ • Brand new Pastel Road! • あこがれacross • ハレハレ☆フォーチュン • ハナヒバナ |
-| いろとりどり | トリドリ＊パレット • ドラマチック！アライブ • Radiate Warriors • ReReReエボリューションず☆ • everyday flower |
-| きみと Stage by Stage | With 〜きみとわたしたちの物語〜 • フレっとパレット Fight Song!! • デイオフ・ラフ・ラブ・サンクス • ホワイト ノスタルジア • Y.O.L.O ！！！！！(パスパレver.) |
-| Vol.1 | secret base〜君がくれたもの〜 • ふわふわ時間 |
-|---|---|
-| Vol.2 | ハッピーシンセサイザ • 世界は恋に落ちている |
-| Vol.3 | Fantastic future • 奏（かなで） |
-| Vol.4 | Baby Sweet Berry Love • Q&A リサイタル！ |
-| VOCALOID | からくりピエロ • ハッピーシンセサイザ • みくみくにしてあげる♪【してやんよ】 • ルカルカ★ナイトフィーバー |
-| Vol.5 | 花ハ踊レヤいろはにほ • 春擬き |
-| Vol.6 | 徒花ネクロマンシー • ノスタルジックレインフォール • 夜に駆ける |
-| Vol.7 | 春を告げる • Sparkling Daydream |
-| Pastel à la mode | そばかす • 気まぐれロマンティック • ドリームパレード • ラムのラブソング • DANCE! おジャ魔女 • DISCOTHEQUE • ゆりゆららららゆるゆり大事件 • SAKURAスキップ • Stay Alive • 秘密の扉から会いにきて |
-| Vol.8 | 惑星ループ （× PAREO ） • Make it! • ヒトリゴト （× ClariS ） |
-| Vol.9 | 魔法少女とチョコレゐト • 可愛くてごめん (注) 日菜×千圣×麻弥×伊芙 • アイドル |
-| Vol.10 | サインはB • だから、ひとりじゃない • 最上级にかわいいの！ • 愛包ダンスホール （× 兰 ） |
-| 其他 | MOON PRIDE • はなまるぴっぴはよいこだけ • ときめきポポロン♪ • ココ☆ナツ • オトナブルー • すきっちゅーの！ |
-| 其他特殊组合 • EXTRA | ムーンライト伝説 （× 心 × 真白 ） • ファンサ （× 凑阿库娅 ） • もういちど ルミナス（コラボver） （ ClariS ×彩） • 五等分の気持ち （Pastel*Palettes( 日菜 × 千圣 )× 有咲 × 鸫 × 真白 ） • どりーみんチュチュ （× 花音 ） |
-| BanG Dream! 主系列演唱会 | 7th☆LIVE DAY2:Genesis ft. • 8th☆LIVE DAY3:Special Live ～Summerly Tone♪～ ft. |
-|---|---|
-| 企划内联合演唱会 | ガルパライブ＆ガルパーティ！in東京 ft. • BanG Dream! 10th Anniversary LIVE |
-| 其他参演 | THE THIRD （仮） 2nd ライブ ft. • RAISE A SUILEN Heaven and Earth ft. |
-|---|
-| 相关会社 | Bushiroad [+] • Bushiroad Creative • Bushiroad Media • 株式会社Kixroad • 响HiBiKi [+] |
-| 相关人士 | 木谷高明 （创立者、董事长、社长） |
-|---|
-| 相关会社 | Bushiroad [+] • Bushiroad Creative • Bushiroad Media • 株式会社Kixroad • 响HiBiKi [+] |
-| 相关人士 | 木谷高明 （创立者、董事长、社长） |
-|---|---|
-|---|---|
-|---|
-|---|
-|---|
-|---|---|
-|---|---|
-|---|---|
-### 注释与外部链接
